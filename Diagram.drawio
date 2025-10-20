@@ -1623,7 +1623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cRE_lmCc1FgrSHD-lBSq" name="flowchart-01">
-    <mxGraphModel dx="75" dy="133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1669,7 +1669,7 @@
         <mxCell id="UQZ_LQB_2HO25ezdz8gv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UQZ_LQB_2HO25ezdz8gv-7" source="lAUNAwr_DAVY52TDT6yq-7" target="UQZ_LQB_2HO25ezdz8gv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UQZ_LQB_2HO25ezdz8gv-6" value="" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+        <mxCell id="UQZ_LQB_2HO25ezdz8gv-6" value="" style="swimlane;startSize=0;strokeColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="210" height="850" as="geometry" />
         </mxCell>
         <mxCell id="lAUNAwr_DAVY52TDT6yq-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="UQZ_LQB_2HO25ezdz8gv-6">
@@ -1684,7 +1684,10 @@
         <mxCell id="lAUNAwr_DAVY52TDT6yq-8" value="เข้าสู่ระบบ Uptime kuma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UQZ_LQB_2HO25ezdz8gv-6">
           <mxGeometry x="40" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQZ_LQB_2HO25ezdz8gv-11" value="แจ้งเตือน ให้กรอกข้อมูล" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UQZ_LQB_2HO25ezdz8gv-6">
+        <mxCell id="UQZ_LQB_2HO25ezdz8gv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UQZ_LQB_2HO25ezdz8gv-6" source="UQZ_LQB_2HO25ezdz8gv-11" target="lAUNAwr_DAVY52TDT6yq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQZ_LQB_2HO25ezdz8gv-11" value="แจ้งเตือน ให้กรอกข้อมูลใหม่" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UQZ_LQB_2HO25ezdz8gv-6">
           <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQZ_LQB_2HO25ezdz8gv-35" value="" style="ellipse;html=1;shape=endState;fillColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="UQZ_LQB_2HO25ezdz8gv-6">
