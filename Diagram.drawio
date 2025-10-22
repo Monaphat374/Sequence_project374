@@ -2189,7 +2189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="flowchart-02 create ac" id="h1b-BkyL78JprMtFAMhQ">
-    <mxGraphModel dx="862" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-0" />
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-1" parent="2RKBqnWDOdw9X9dKu7lu-0" />
@@ -2206,10 +2206,10 @@
           <mxGeometry x="290" y="120" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-6" value="" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="2RKBqnWDOdw9X9dKu7lu-1">
-          <mxGeometry x="290" y="120" width="420" height="1160" as="geometry" />
+          <mxGeometry x="290" y="120" width="420" height="890" as="geometry" />
         </mxCell>
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-24" value="" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="2RKBqnWDOdw9X9dKu7lu-6">
-          <mxGeometry x="210" width="210" height="1160" as="geometry" />
+          <mxGeometry x="210" width="210" height="890" as="geometry" />
         </mxCell>
         <mxCell id="wjtRYjWkl8G7l7gMyTh9-10" value="บันทึกข้อมูลและจัดเก็บข้อมูล" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2RKBqnWDOdw9X9dKu7lu-24">
           <mxGeometry x="60" y="552.5" width="130" height="40" as="geometry" />
@@ -2255,7 +2255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-31" value="" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="2RKBqnWDOdw9X9dKu7lu-1">
-          <mxGeometry x="80" y="120" width="210" height="1160" as="geometry" />
+          <mxGeometry x="80" y="120" width="210" height="890" as="geometry" />
         </mxCell>
         <mxCell id="2RKBqnWDOdw9X9dKu7lu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2RKBqnWDOdw9X9dKu7lu-31" source="2RKBqnWDOdw9X9dKu7lu-35" target="2RKBqnWDOdw9X9dKu7lu-36">
           <mxGeometry relative="1" as="geometry" />
