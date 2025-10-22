@@ -1483,7 +1483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="report/export" id="_UGoaqGCki9_OBKaKVgF">
-    <mxGraphModel dx="757" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BEtApuvi36vCCSvgQLn4-0" />
         <mxCell id="BEtApuvi36vCCSvgQLn4-1" parent="BEtApuvi36vCCSvgQLn4-0" />
@@ -1842,10 +1842,10 @@
           <mxGeometry x="510" y="740" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BEcNCOTwP54WCwUugVZu-0" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot; color=&quot;#1a1a1a&quot;&gt;alt กรณีเลือกข้อมูลสำเร็จ&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;dashed=1;dashPattern=1 2;fillColor=light-dark(#DCC7F0,#A18EB3);fontColor=#ffffff;strokeColor=#9A7AB8;swimlaneFillColor=none;width=140;height=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;" vertex="1" parent="BEtApuvi36vCCSvgQLn4-1">
-          <mxGeometry x="60" y="510" width="980" height="220" as="geometry" />
+          <mxGeometry x="60" y="510" width="980" height="210" as="geometry" />
         </mxCell>
         <mxCell id="I3a3UmHGVVg9x98zl5gV-0" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot; color=&quot;#1a1a1a&quot;&gt;alt กรณีเลือกข้อมูลสำเร็จ&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;dashed=1;dashPattern=1 2;fillColor=light-dark(#DCC7F0,#A18EB3);fontColor=#ffffff;strokeColor=#9A7AB8;swimlaneFillColor=none;width=140;height=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;" vertex="1" parent="BEtApuvi36vCCSvgQLn4-1">
-          <mxGeometry x="60" y="860" width="980" height="270" as="geometry" />
+          <mxGeometry x="60" y="860" width="980" height="260" as="geometry" />
         </mxCell>
         <mxCell id="I3a3UmHGVVg9x98zl5gV-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot; color=&quot;#1a1a1a&quot;&gt;alt กรณีเลือกข้อมูลไม่สำเร็จ&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;dashed=1;dashPattern=1 2;fillColor=light-dark(#DCC7F0,#7F00FF);fontColor=#ffffff;strokeColor=#9A7AB8;swimlaneFillColor=none;width=140;height=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;" vertex="1" parent="BEtApuvi36vCCSvgQLn4-1">
           <mxGeometry x="90" y="720" width="860" height="120" as="geometry" />
