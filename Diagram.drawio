@@ -2311,7 +2311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="flowchart-02 reprot/export file" id="_0xpiWH9JGZCMp08J-XH">
-    <mxGraphModel dx="3660" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="DoteQ2dneOlL_otjQnYE-0" />
         <mxCell id="DoteQ2dneOlL_otjQnYE-1" parent="DoteQ2dneOlL_otjQnYE-0" />
@@ -2418,7 +2418,7 @@
         <mxCell id="ted8iIvA64LlNL5wFwGW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DoteQ2dneOlL_otjQnYE-6" source="ted8iIvA64LlNL5wFwGW-4" target="ted8iIvA64LlNL5wFwGW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ted8iIvA64LlNL5wFwGW-4" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;แสดงข้อมูลการทำงาน&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;ของมอนิเตอร์ ตามเวลาที่เลือก&lt;/font&gt;&lt;/div&gt;&lt;/h5&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="DoteQ2dneOlL_otjQnYE-6">
+        <mxCell id="ted8iIvA64LlNL5wFwGW-4" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: wrap;&quot;&gt;แสดงข้อมูลการทำงาน&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: wrap;&quot;&gt;ของมอนิเตอร์ ตามเวลาที่เลือก&lt;/div&gt;&lt;/h5&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="DoteQ2dneOlL_otjQnYE-6">
           <mxGeometry x="8.76" y="1270" width="192.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ted8iIvA64LlNL5wFwGW-12" value="นำผลไปใช้งาน" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DoteQ2dneOlL_otjQnYE-6">
