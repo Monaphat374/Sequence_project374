@@ -2499,7 +2499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="flowchart-04 bot" id="OVVhlfaDRQ_g-TDWiBhe">
-    <mxGraphModel dx="1830" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="511" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="Ewxb6jQn1vLhNJJ7P4Na-0" />
         <mxCell id="Ewxb6jQn1vLhNJJ7P4Na-1" parent="Ewxb6jQn1vLhNJJ7P4Na-0" />
@@ -2537,7 +2537,7 @@
           <mxGeometry x="40.32000000000001" y="540" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ewxb6jQn1vLhNJJ7P4Na-52" value="" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-6">
-          <mxGeometry x="-210" y="-40" width="210" height="1570" as="geometry" />
+          <mxGeometry x="-210" width="210" height="1530" as="geometry" />
         </mxCell>
         <mxCell id="B2dB-MbAi6E5Hov1nnF2-1" value="เข้าสู่ห้องแชทที่สร้างไว้จากการแจ้งเตือนใน Kuma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="21.25" y="220" width="152.5" height="40" as="geometry" />
