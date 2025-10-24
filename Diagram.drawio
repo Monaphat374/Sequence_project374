@@ -2545,22 +2545,22 @@
         <mxCell id="3nG6i3CqNVoQe8MGNLQw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52" source="3nG6i3CqNVoQe8MGNLQw-1" target="3nG6i3CqNVoQe8MGNLQw-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3nG6i3CqNVoQe8MGNLQw-1" value="พิมพ์ข้อความในห้องแชท" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
+        <mxCell id="3nG6i3CqNVoQe8MGNLQw-1" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;พิมพ์ข้อความในห้องแชท&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="31.879999999999992" y="390" width="146.24" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3nG6i3CqNVoQe8MGNLQw-0" value="พิมพ์ !hi / !help" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
+        <mxCell id="3nG6i3CqNVoQe8MGNLQw-0" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;พิมพ์ !hi / !help&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="29.999999999999975" y="460" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3nG6i3CqNVoQe8MGNLQw-15" value="&lt;font style=&quot;font-size: 12px; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;พิมพ์ !ping &amp;lt;name|host&amp;gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="23.12000000000003" y="875" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3nG6i3CqNVoQe8MGNLQw-19" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;พิมพ์ !traceroute&amp;nbsp;&amp;lt;name|host&amp;gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
+        <mxCell id="3nG6i3CqNVoQe8MGNLQw-19" value="&lt;font style=&quot;font-size: 12px; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;พิมพ์ !traceroute&amp;nbsp;&amp;lt;name|host&amp;gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="11.560000000000024" y="1085" width="183.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ewxb6jQn1vLhNJJ7P4Na-51" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="65.00000000000001" y="1465" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3nG6i3CqNVoQe8MGNLQw-21" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;พิมพ์ !scan [CIDR|x.x.x.*|x.x.x.a-b]&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
+        <mxCell id="3nG6i3CqNVoQe8MGNLQw-21" value="&lt;font style=&quot;font-size: 12px; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;พิมพ์ !scan [CIDR|x.x.x.*|x.x.x.a-b]&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;arcSize=25;size=16;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
           <mxGeometry x="0.9800000000000226" y="1290" width="204.29" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ewxb6jQn1vLhNJJ7P4Na-11" value="เข้าสู่แอพ Discord" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ewxb6jQn1vLhNJJ7P4Na-52">
